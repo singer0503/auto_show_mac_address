@@ -171,7 +171,7 @@ sudo easy_install pip
 pip install paramiko
 ```
 
-paramiko 是用來
+以上都安裝完成了，就可以開始用該程式碼
 
 
 
