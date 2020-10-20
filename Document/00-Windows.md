@@ -3,7 +3,7 @@
 ### Windows 安裝順序：
 choco → pyenv-win → Python → pip → paramiko
 
-choco = chocolatey
+choco = chocolatey
 
 # chocolatey 說明
 在過去在 Windows 安裝軟體應用程式時，需要下載安裝檔與使用其軟體安裝流程步驟等各種 GUI 介面，如果需要安裝多個軟體時使用上很繁瑣，Chocolatey 是在 Windows 上的套件管理工具，它結合 Nuget 基礎服務與 powershell 指令，提供快速安裝應用程式與需要工具的服務，主要是將安裝軟體的內容封裝到一個安裝包中，在 Chocolatey 中只需要一條簡單的 command line，就可以完成搜尋、安裝、更新、解安裝等操作
@@ -32,12 +32,11 @@ Please run 'choco -?' or 'choco <command> -?' for help menu.
 ```bash
 choco install pyenv-win
 ```
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50cdac8d-bf20-4a38-b2e8-7301e169b8e6/_2020-10-20_4.47.24.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50cdac8d-bf20-4a38-b2e8-7301e169b8e6/_2020-10-20_4.47.24.png)
+![](images/00-Windows_pyenv-win.png)
 
 輸入 Y
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4883b4f1-d516-49e2-ad02-fc2051c53eb7/_2020-10-20_4.47.30.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4883b4f1-d516-49e2-ad02-fc2051c53eb7/_2020-10-20_4.47.30.png)
+![](images/00-Windows_pyenv-win-Y.png)
 
 安裝完成後，關閉終端機在開啟，才有 pyenv 可以用！
 
