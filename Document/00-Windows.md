@@ -7,4 +7,4 @@ choco → pyenv → Python → pip → paramiko
 ## 連結
 
 - [目錄](directory.md)
-- 下一章：[開發 ssh 功能](./Document/01.1.md)
+- 下一章：[開發 ssh 功能](01.1.md)
