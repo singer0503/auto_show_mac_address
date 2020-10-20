@@ -63,8 +63,7 @@ pyenv install 3.9.0
 ```
 pyenv versions
 ```
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a2e5d51-fc10-4b10-bebc-f2502e1570e9/_2020-10-20_5.06.19.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a2e5d51-fc10-4b10-bebc-f2502e1570e9/_2020-10-20_5.06.19.png)
+![](images/00-Windows_pyenv-versions-1.png)
 
 沒有 * 代表沒關聯到這個版本，所以要整個切過去
 
@@ -78,7 +77,7 @@ pyenv global 3.9.0
 pyenv versions
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e17c492-0b70-4f57-a695-a170bfb08c01/_2020-10-20_5.07.31.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e17c492-0b70-4f57-a695-a170bfb08c01/_2020-10-20_5.07.31.png)
+![](images/00-Windows_pyenv-versions-2.png)
 
 前面有 * 代表正在使用這個版本的 python
 
@@ -88,7 +87,8 @@ pyenv versions
 pyenv rehash
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9fe45cea-ceba-4078-a552-3dce0370aeaa/_2020-10-20_5.10.09.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9fe45cea-ceba-4078-a552-3dce0370aeaa/_2020-10-20_5.10.09.png)
+![](images/00-Windows_rehash.png)
+
 
 輸入 exit() 可以離開 python
 
