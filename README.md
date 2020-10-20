@@ -50,4 +50,4 @@ choco → pyenv → Python → pip → paramiko
 這個專案的說明文件都會放在 Document 資料夾下
 - 想讀書的人～[目錄](./Document/directory.md)
 - [Mac 開發環境安裝](./Document/00-Mac.md)
-- [Windows 開發環境安裝](./Document/00-windows.md)
+- [Windows 開發環境安裝](./Document/00-Windows.md)
