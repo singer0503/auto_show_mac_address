@@ -44,7 +44,7 @@ python onecollect.py
 brew → pyenv → Python → pip → paramiko
 
 ### Windows 安裝順序：
-choco → pyenv → Python → pip → paramiko
+choco → pyenv-win → Python → pip → paramiko
 
 ## 文件連結
 這個專案的說明文件都會放在 Document 資料夾下
