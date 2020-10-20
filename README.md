@@ -38,7 +38,7 @@ python onecollect.py
 - pip：Python 有很多套件預設是沒有安裝的，若要下載其他套件，就要透過這個模組
 - paramiko：python 的一種模組，支援 Linux, Solaris, BSD, MacOS X, Windows 等平台透過 ssh 從一個平台連接到另外一個平台。利用該模組，可以方便的進行 ssh 連接和 sftp 協議進行檔案傳輸。
 
-- choco：若為 Windows 電腦則需改用這個開發套件管理器
+- choco：若為 Windows 電腦則需改用這個開發套件管理器
 
 ### Mac 安裝順序：
 brew → pyenv → Python → pip → paramiko
